@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/NerdFleury/IDFInder.git/static/css/main.9e847664.chunk.css",
+    "main.js": "/NerdFleury/IDFInder.git/static/js/main.3c0c3754.chunk.js",
+    "main.js.map": "/NerdFleury/IDFInder.git/static/js/main.3c0c3754.chunk.js.map",
+    "runtime-main.js": "/NerdFleury/IDFInder.git/static/js/runtime-main.4da14e36.js",
+    "runtime-main.js.map": "/NerdFleury/IDFInder.git/static/js/runtime-main.4da14e36.js.map",
+    "static/js/2.1f06d5d1.chunk.js": "/NerdFleury/IDFInder.git/static/js/2.1f06d5d1.chunk.js",
+    "static/js/2.1f06d5d1.chunk.js.map": "/NerdFleury/IDFInder.git/static/js/2.1f06d5d1.chunk.js.map",
+    "static/js/3.75e9a53e.chunk.js": "/NerdFleury/IDFInder.git/static/js/3.75e9a53e.chunk.js",
+    "static/js/3.75e9a53e.chunk.js.map": "/NerdFleury/IDFInder.git/static/js/3.75e9a53e.chunk.js.map",
+    "index.html": "/NerdFleury/IDFInder.git/index.html",
+    "static/css/main.9e847664.chunk.css.map": "/NerdFleury/IDFInder.git/static/css/main.9e847664.chunk.css.map",
+    "static/js/2.1f06d5d1.chunk.js.LICENSE.txt": "/NerdFleury/IDFInder.git/static/js/2.1f06d5d1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4da14e36.js",
+    "static/js/2.1f06d5d1.chunk.js",
+    "static/css/main.9e847664.chunk.css",
+    "static/js/main.3c0c3754.chunk.js"
+  ]
+}
